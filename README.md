@@ -4,7 +4,7 @@ https://digitaliser.dk/Media/638336537871668450/Digital%20Post%20-%20Technical%2
 
 # APIs
 Test 
-https://test.digitalpost.dk/
+[https://test.digitalpost.dk/api](https://test.digitalpost.dk/api)
 
 Prod
 [https://api.digitalpost.dk/](https://api.digitalpost.dk/apis/v1)
