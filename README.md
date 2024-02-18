@@ -13,10 +13,15 @@ Prod
 
 
 # Source Code
+Reference implementation: 
 https://bitbucket.org/nc-dp/reference-systems-for-dotnet/src/master/
+
+Memolib:
+https://bitbucket.org/nc-dp/memo-lib-dot-net/src/master/ 
 
 
 # Authentication
+Authorization header is for identifiying calling system, the actual auth is the mutual tls. 
 
 curl -v \
 --http1.1 \
