@@ -3,6 +3,8 @@
 
 https://digitaliser.dk/digital-post/vejledninger/technical-integration
 
+https://digst.dk/it-loesninger/digital-post/vejledninger/
+
 # Administration
 https://admin.digitalpost.dk/ 
  
